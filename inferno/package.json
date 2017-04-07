@@ -1,0 +1,16 @@
+{
+  "name": "inferno-stack",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "inferno": "*",
+    "redux": "*",
+    "inferno-redux": "*",
+    "inferno-router": "*",
+    "i18n-js": "http://github.com/fnando/i18n-js/archive/v3.0.0.rc8.tar.gz"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.3",
+    "webpack-bundle-size-analyzer": "^2.5.0"
+  }
+}
